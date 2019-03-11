@@ -19,10 +19,11 @@ refinishing furniture. With much effort and gumption, she applies her
 art training and talent to not just get a job but also to get
 freelance work. She goes on to create identities for companies from
 the US government to Hostess. You can see some of her work here -
-http://www.dagmarpersons.com/ . This is my favorite and I still
-remember in grade school staying up late with her as she was working
-on this - http://www.dagmarpersons.com/artGallery/logo_USTreasury.html
-. Little did I know the full impact of this specific message.
+[http://www.dagmarpersons.com/](http://www.dagmarpersons.com/). This
+is my favorite and I still remember in grade school staying up late
+with her as she was working on this -
+[http://www.dagmarpersons.com/artGallery/logo_USTreasury.html](http://www.dagmarpersons.com/artGallery/logo_USTreasury.html).
+Little did I know the full impact of this specific message.
 
 In August 1986, less than six years later after arriving in the US, my
 mother worked and saved enough to buy a house in a good school
