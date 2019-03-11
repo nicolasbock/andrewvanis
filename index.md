@@ -1,3 +1,7 @@
+---
+layout: splash
+---
+
 # Background
 
 I am a first-generation American. I was born in Prague, Czechoslovakia
