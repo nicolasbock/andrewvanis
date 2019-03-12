@@ -1,9 +1,10 @@
 plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.15.2"
-minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 name: &name "Andrew Vanis"
+tile: *name
 author:
   name: *name
   bio: "bio...."
