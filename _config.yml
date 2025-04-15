@@ -10,3 +10,5 @@ tile: *name
 author:
   name: *name
   bio: "bio...."
+
+theme: jekyll-theme-minimal
